@@ -1,8 +1,8 @@
 // Copyright(c) 2022 Lucas LeBlanc All rights reserved.
 //
 // Created by : Lucas LeBlanc
-// Created on : Oct 2022
-// ICS3U-Unit3-05.cpp File, learning select cases in C++.
+// Created on : Nov 2022
+// This program tells you what day of the week it is
 
 #include <iostream>
 
