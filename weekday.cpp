@@ -27,7 +27,7 @@ int main() {
             std::cout << "The " << weekday << "rd day of the week is Tuesday.";
             break;
         case 4:
-            std::cout << "The " << weekday << "th day of the week is Wednesday.";
+        std::cout << "The " << weekday << "th day of the week is Wednesday.";
             break;
         case 5:
             std::cout << "The " << weekday << "th day of the week is Thursday.";
